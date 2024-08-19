@@ -7,7 +7,7 @@ app.secret_key = 'your_secret_key'
 users = {'vivek': '123', 'kuldeep': '456'}
 medicines = {
     'fever': 'Paracetamol',
-    'head pain': 'Asprin',
+    'chest pain': 'Nitroglycerin',
     'cold': 'Cetirizine',
     'headache': 'Aspirin',
     'cough': 'Cough Syrup',

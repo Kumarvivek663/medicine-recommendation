@@ -14,9 +14,9 @@ body {
 
 .login-container,
 .recommendation-container {
-    background-color: rgba(0, 0, 0, 0.7);
-    padding: 20px;
-    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.642);
+    padding: 80px;
+    border-radius: 30px;
 }
 
 input[type="text"],
